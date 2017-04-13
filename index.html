@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Resume</title>
+		<link rel="stylesheet" href="TemplateData/Style.css">
+		<link rel="shortcut icon" href="TemplateData/Favicon.ico" />
+		<script type="text/javascript" src="https://code.createjs.com/tweenjs-0.6.1.min.js"></script>
+		<script type="text/javascript" src="TemplateData/CSSPlugin.js"></script>
+		<script src="TemplateData/UnityProgress.js"></script>
+	</head>
+	<body class="template">
+		<div class="template-wrap clear">
+			<canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="1100px" width="850px"></canvas>
+		</div>
+		<div id="loadingBox">
+			<img src="TemplateData/Logo.png" style="width: 64px; height: 64px; margin-bottom: 10px;" />
+			<div id="bgBar"></div>
+			<div id="progressBar"></div>
+			<p id="loadingInfo">Loading...</p>
+		</div>
+		<script type='text/javascript'>
+  var Module = {
+    TOTAL_MEMORY: 268435456,
+    errorhandler: null,			// arguments: err, url, line. This function must return 'true' if the error is handled, otherwise 'false'
+    compatibilitycheck: null,
+    backgroundColor: "#EAE5E5",
+    splashStyle: "Dark",
+    dataUrl: "Release/InteractiveResume.data",
+    codeUrl: "Release/InteractiveResume.js",
+    asmUrl: "Release/InteractiveResume.asm.js",
+    memUrl: "Release/InteractiveResume.mem",
+  };
+</script>
+<script src="Release/UnityLoader.js"></script>
+
+	</body>
+</html>
