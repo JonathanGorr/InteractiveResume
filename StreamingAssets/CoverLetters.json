@@ -16,6 +16,17 @@
 	
 	"CoverLetters" : [
 		{
+			"Date": "April 16, 2017",
+			"Company": "Carbonated",
+			"Address": "El Segundo, CA 90245",
+			"Position": "Software Engineer",
+			"RequisitionID": "",
+			"Body": "Dear Sir or Madam,\n\nI am writing to express my interest in the Client Software Engineer opportunity at Carbonated. I am a game designer with 2 years hobby experience looking to accelerate the Racing Rivals title.\n\nI achieved my Bachelor’s in Interactive Arts, by rapidly and collaboratively prototyping pc and mobile games in an agile-based academic environment using game engines like Unity3d and HaxeFlixel. The game design program at my university focused on C# and javascript programming and software design, occasionally shifting gears to focus on game design and interaction design(UI/UX). It has ignited my interest for professional development in a racing-paced mobile gaming studio.\n\nMy recent 17 months Technical Art employment at the baltimore-based game studio, Sparkypants, has fueled my understanding of the engineering and project management aspect of large games. Here I learned how to create, integrate and version assets and how to resolve kinks in a asset implementation pipeline by effectively communicating with other artists, engineers and designers on our team.\n\nMy 2 years independent, post-graduation Unity game development experience has trained me to tune-up and write efficient code for mobile platforms. I am consequently adept at mobile shader coding in CG and familiar with repairing many of the performance-related problems inherent of mobile development with Unity.\n\nPlease feel free to contact me via email or phone call (754)-423-4462 to schedule an interview or to discuss my qualifications in further detail.",
+			"slug": "carbonated",
+			"download": "https://docs.google.com/document/d/1vJPByJqAJLM7Xt568yDao70USYIoBDd32rar0_AuZiw/export?format=pdf",
+			"logo": ""
+		},
+		{
 			"Date": "April 14, 2017",
 			"Company": "Mattel",
 			"Address": "East Aurora, NY",
