@@ -17,6 +17,17 @@
 	"CoverLetters" : [
 		{
 			"Date": "April 16, 2017",
+			"Company": "Playstation",
+			"Address": "San Francisco, CA",
+			"Position": "Front End Developer",
+			"RequisitionID": "",
+			"Body": "Dear Sir or Madam,\n\nAs a long-time Playstation fan, I am writing to express my interest in the Front End Developer Internship. I am a game designer interested in establishing myself in the game industry and creating value for Playstation.\n\nI achieved my Bachelor’s in Interactive Arts, by rapidly and collaboratively prototyping pc and mobile games in an agile-based academic environment using game engines like Unity3d and HaxeFlixel. The game design program at my university focused on C# OO and component programming, JS web development, software patterns and systems/mechanics design, game design and interaction-specific design(UI/UX). The program has ignited my passion for creating amazing game experiences.\n\nMy recent 17 months Technical Art employment at the baltimore-based game studio, Sparkypants, has boosted my understanding of the engineering and project management aspect of large games. Here I learned how to create, integrate—that includes updating JSON databases—, and version assets and how to resolve kinks in a asset implementation pipeline by effectively communicating with other artists, engineers and designers on their team.\n\nMy 2 years independent, post-graduation Unity game development experience has trained me to write expert C# code targeted for mobile and pc platforms. I am consequently adapted to shader coding in CG and familiar with optimizing assets, lighting and geometry for Unity games.\n\nPlease feel free to contact me via email or phone call (754)-423-4462 to schedule an interview or to discuss my qualifications in further detail.",
+			"slug": "sony",
+			"download": "https://docs.google.com/document/d/1IbC0UR1XtkEx5ukaJPlZOSv6YXzNSDq2mHU9ofAz_hU/export?format=pdf",
+			"logo": ""
+		},
+		{
+			"Date": "April 16, 2017",
 			"Company": "Carbonated",
 			"Address": "El Segundo, CA 90245",
 			"Position": "Software Engineer",
