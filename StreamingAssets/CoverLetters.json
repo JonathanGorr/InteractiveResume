@@ -16,6 +16,17 @@
 	
 	"CoverLetters" : [
 		{
+			"Date": "April 17, 2017",
+			"Company": "Bethesda Softworks",
+			"Address": "Rockville, MD",
+			"Position": "QA Tester",
+			"RequisitionID": "Job ID: 1022",
+			"Body": "Dear Sir or Madam,\n\nI’ve heard the greybeards thu’um for a Contract QA Tester from High Hrothgar, aka Bethesda Softworks located in Rockville, MD. I am an initiate-rank software engineer and game designer interested in establishing myself in the game industry, and believe QA is an excellent way to acquire experience and honor the nine divines by igniting meddlesome spiders for Bethesda.\n\nStudying under Phinis Gestor, I achieved my Bachelor’s in Interactive [Arcane] Arts, by rapidly and collaboratively conjuring pc and mobile games in an agile-based academic environment using enchanting tables like Unity3d and HaxeFlixel. A crucial component of this program was dedicated to teaching apprentices how to write software test case and raise zombies to perform usability tests.\n\nMy recent 17 months Technical [Dark] Art employment at the Baltimore-based game fort, Sparkypants, has boosted my understanding of the engineering and waterfall development cycle of large conjurations. When not fighting off bandits, I learned how to create, integrate, version and repair broken crystals in a asset implementation pipeline by effectively communicating with other artists, engineers and designers in my station. Part of this position required me to daily playtest and candlelight bugs in their acclaimed conjuring, DropZone.\n\nI’m confident my education and apprenticeship at Sparkypants have made me highly qualified for the QA Tester position. Please feel free to contact me via email, courier or call my thu’um number (754)-423-4462 to schedule an interview or to peruse my wares.",
+			"slug": "bethsoft",
+			"download": "https://docs.google.com/document/d/1jR8ZTtkynHhcaMKo8REOHdENnGiicbi1KBAEn8Vjs8Q/export?format=pdf",
+			"logo": ""
+		},
+		{
 			"Date": "April 16, 2017",
 			"Company": "Playstation",
 			"Address": "San Francisco, CA",
